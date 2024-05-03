@@ -1,6 +1,6 @@
-# SAFARI - Tours And Travel Management App
+# Travel Adda - Tours And Travel Management App
 
-Project Title :- SAFARI - Tours And Travel Management App
+Project Title :- Travel Adda - Tours And Travel Management App
 
 Project Technology :- Java, Spring Boot, React, MySQL
 
